@@ -5,7 +5,7 @@ const darkTheme = createTheme({
   primaryLight: "#464f58",
   secondary: "#343A40",
   secondaryLight: "#737f8c",
-  textBase: "white",
+  textBase: "black",
 });
 
 export default darkTheme;

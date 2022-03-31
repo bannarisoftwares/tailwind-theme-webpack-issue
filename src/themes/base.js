@@ -5,7 +5,7 @@ const baseTheme = createTheme({
   primaryLight: "#4d4dff",
   secondary: "red",
   secondaryLight: "#ff4d4d",
-  textBase: "white",
+  textBase: "black",
 });
 
 export default baseTheme;
